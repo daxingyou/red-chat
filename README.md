@@ -11,8 +11,11 @@
 7充值，微信 支付宝 <br>
 8推广，二维码邀请 <br>
 9我的 个人信息修改，账单，积分 更新<br>
-#### 软件架构
-软件架构说明
+#### 演示说明
+<img src="https://ftw888.com/download/1.png" width="200" height="200">
+<img src="https://ftw888.com/download/2.png" width="200" height="200">
+<img src="https://ftw888.com/download/3.png" width="200" height="200">
+<img src="https://ftw888.com/download/4.png" width="200" height="200">
 
 
 #### 安装教程
