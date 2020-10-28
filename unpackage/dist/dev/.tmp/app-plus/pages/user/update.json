@@ -1,0 +1,7 @@
+{
+  "bounce": "none",
+  "titleNView": false,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

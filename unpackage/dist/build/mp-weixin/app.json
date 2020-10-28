@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/chat/chat",
+    "pages/chat/hand/hand",
+    "pages/deposit/deposit",
+    "pages/pay/payment/payment",
+    "pages/pay/success/success",
+    "pages/chat/details/details",
+    "pages/user/usercenter",
+    "pages/user/userinfo",
+    "pages/login",
+    "pages/regist",
+    "pages/user/update",
+    "pages/team/team",
+    "pages/activty/activty",
+    "pages/invitation/invitation",
+    "pages/team/team_s",
+    "pages/chat/more/more",
+    "pages/user/update_password",
+    "pages/user/update_dealpassword",
+    "pages/user/rechargemoney",
+    "pages/user/transfer_accounts",
+    "pages/user/introduce",
+    "pages/user/detail",
+    "pages/user/drawings",
+    "pages/user/sub_detail",
+    "pages/team/team_sub",
+    "pages/luck/luck",
+    "pages/ImportCalendar/ImportCalendar",
+    "pages/chat/more/member",
+    "pages/team/team_commission",
+    "pages/user/payment",
+    "pages/chat/redPacketDetails/redPacketDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "全民娱乐",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#666",
+    "borderStyle": "black",
+    "backgroundColor": "#e7e7e7",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon_home/home.png",
+        "selectedIconPath": "static/icon_home/home_s.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/activty/activty",
+        "iconPath": "static/icon_home/hot.png",
+        "selectedIconPath": "static/icon_home/hot_s.png",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/deposit/deposit",
+        "iconPath": "static/icon_home/bill_s.png",
+        "selectedIconPath": "static/icon_home/bill.png",
+        "text": "充值"
+      },
+      {
+        "pagePath": "pages/invitation/invitation",
+        "iconPath": "static/icon_home/turnvoice.png",
+        "selectedIconPath": "static/icon_home/turnvoice_s.png",
+        "text": "推广"
+      },
+      {
+        "pagePath": "pages/user/usercenter",
+        "iconPath": "static/icon_home/my.png",
+        "selectedIconPath": "static/icon_home/my_s.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}
